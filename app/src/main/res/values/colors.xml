@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F0F4C3</color>
+    <color name="item_background_color">#A5D6A7</color>
+    <color name="item_background_color_selected">#81C784</color>
+    <color name="text_color">#000000</color>
+    <color name="item_background_color_not_bought">#FFCDD2</color>
+
+    <color name="text_color_bought">#2E7D32</color>
+    <color name="text_color_not_bought">#B71C1C</color>
+    <color name="text_color_default">#000000</color>
+</resources>
